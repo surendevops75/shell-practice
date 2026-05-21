@@ -69,4 +69,4 @@ echo -e "$R Logout and login again $N"
 ## Script to install Docker and Docker compose.
 
 ## copy the raw code URL and the below command in docker server.
-## curl https://raw.githubusercontent.com/hari-palepu/Shell_scripts/main/22.Docker_Installation.sh | sudo bash
+## curl https://raw.githubusercontent.com/surendevops75/shell-practice/refs/heads/main/28-Docker-Installation.sh | sudo bash
