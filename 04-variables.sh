@@ -2,6 +2,11 @@
 
 #!/bin/bash
 
+#To pass arguments in shell we use special character called "$".
+#$1=It reads the First argument
+#$2=It reads the Second argument
+#We have to give the NAME while executing the shell.
+
 # Arguments
 PERSON1=$1
 PERSON2=$2
