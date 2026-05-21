@@ -1,5 +1,13 @@
 #!/bin/bash
 
+#if condition syntax
+#if [ expression ]
+#    Statement if expression is true
+#else 
+#   Statement if expression is flase
+#fi
+
+
 NUMBER=$1
 
 if [ $NUMBER -lt 10 ]; then
