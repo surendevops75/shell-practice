@@ -19,7 +19,7 @@ echo -e "Message: $message"
 
 #echo "$message" | mail -s "High Disk Usage" crazyharee@gmail.com 
 
-sh 20.Mail.sh "Hi Team" "High Disk Usage" "$message" "crazyharee@gmail.com" "Alert Recived On Disk Utilization"
+sh 26.Mail.sh "Hi Team" "High Disk Usage" "$message" "crazyharee@gmail.com" "Alert Recived On Disk Utilization"
 
 
 #Monitoring team will monitor Servers, websites. if website is down then they will escalate to DevOps teams.
